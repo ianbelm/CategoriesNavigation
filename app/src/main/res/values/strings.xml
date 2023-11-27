@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CategoriesNavigation</string>
+    <string name="catTree">CategoriaArbres</string>
+    <string name="catMount">CategoriaMuntanyes</string>
+    <string name="catRius">CategoriaRius</string>
+    <string name="navegaci_niuada">Navegació Niuada</string>
+    <string name="arbre">Arbre</string>
+    <string name="alturaMitjana">AlturaMitjana</string>
+    <string name="altura">Altura</string>
+    <string name="caudal">Caudal</string>
+    <string name="riu">Riu</string>
+    <string name="muntanya">Muntanya</string>
+    <string name="nom">Nom</string>
+    <string name="id_riu">ID Riu:</string>
+    <string name="longitud">Longitud</string>
+    <string name="latitud">Latitud</string>
+    <string name="id_muntanya">ID Muntanya</string>
+</resources>
